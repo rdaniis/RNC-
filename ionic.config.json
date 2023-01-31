@@ -1,7 +1,0 @@
-{
-  "name": "rnc",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
